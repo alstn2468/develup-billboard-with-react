@@ -7,11 +7,15 @@
 
 #### [[원본 Git Repository]](https://github.com/develup-official/css-ep2-billie-board)
 
-### 필요한 기초개념
-- 선택자 `Seletor`
-- 가상요소 `Pseudo Elements`
-- 마진겹침 `Margin Collapse`
-- 포지션속성 `Position Property`
+### Dependencies
+- billboard-top-100
+- prop-types
+- react
+- react-dom
+- react-router-dom
+- react-scripts
+- styled-components
+- styled-reset
 
 ### Demo
 
