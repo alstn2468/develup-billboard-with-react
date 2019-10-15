@@ -74,7 +74,7 @@ const Album = styled.div`
         }
 
         :before {
-            color: white;
+            color: yellowgreen;
         }
     }
 `;
